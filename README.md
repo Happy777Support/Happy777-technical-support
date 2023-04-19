@@ -4,10 +4,10 @@ This is the support page for Happy777 Reader.
 
 Thank you for using Happy777 RSS Reader, I am committed to providing the most authentic RSS reading experience for Apple fans. Here are some screenshots and function introductions. If you have any questions, please contact me in the mailbox at the bottom of the page, and I will provide you with any help.
 
-![one](https://github.com/Happy777Support/happy777.support.io/blob/main/screenshot/one.jpg)
-![two](https://github.com/Happy777Support/happy777.support.io/blob/main/screenshot/two.jpg)
-![three](https://github.com/Happy777Support/happy777.support.io/blob/main/screenshot/three.jpg)
-![four](https://github.com/Happy777Support/happy777.support.io/blob/main/screenshot/four.jpg)
+![one](https://github.com/Happy777Support/happy777.support.io/raw/main/screenshot/one.jpg)
+![two](https://github.com/Happy777Support/happy777.support.io/raw/main/screenshot/two.jpg)
+![three](https://github.com/Happy777Support/happy777.support.io/raw/main/screenshot/three.jpg)
+![four](https://github.com/Happy777Support/happy777.support.io/raw/main/screenshot/four.jpg)
 
 There are two tabs here:
 1. Article:
