@@ -28,4 +28,4 @@ There are two tabs here:
 
 or
 
-**Comments under the Appstore:** I will read your review on App carefully and make gai jin
+**Comments under the Appstore:** I will read your comments on the App carefully and make improvements
