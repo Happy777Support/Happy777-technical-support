@@ -15,10 +15,17 @@ There are two tabs here:
      Click on an article to go to the article details page. In the upper right corner of the details page, you can bookmark and save articles in Safari.
 
 2. Setting
-    Apperance - select theme style
+    Apperance - select theme style, Support dark mode and light mode
     Share - Share App with friends
     Popular RSS feeds - Some popular RSS feeds, which can be enabled according to your needs
     Add RSS feeds - Fill in the RSS address you have collected
+    
+3. Delete
+   After adding the reading source, you can swipe left to delete it under the Setting
 
-
+# Contact us
 **Email:** sterypvicopli@gmx.com
+
+or
+
+**Comments under the Appstore:** I will read your review on App carefully and make gai jin
