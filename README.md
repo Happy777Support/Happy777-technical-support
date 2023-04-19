@@ -17,6 +17,7 @@ There are two tabs here:
      Click on an article to go to the article details page. In the upper right corner of the details page, you can bookmark and save articles in Safari.
 
 2. Setting
+    
     Apperance - select theme style, Support dark mode and light mode
     
     Share - Share App with friends
