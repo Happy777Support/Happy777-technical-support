@@ -1,4 +1,3 @@
-# Happy777 technical support
 
 This is the support page for Happy777 Reader.
 
